@@ -1,0 +1,11 @@
+.button{
+  background-color: blue;
+  gap: 5rem;
+  margin: 0%;
+  padding: auto;
+  align-items: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+}

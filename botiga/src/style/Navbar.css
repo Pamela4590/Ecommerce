@@ -1,0 +1,94 @@
+*{
+    margin-left: 0;
+    padding: 0;
+    
+ 
+
+}
+.Botiga-header{
+    display: flex;
+    margin-left: 200px;
+    align-items: center;
+}
+
+.button-container button{
+    display: flex;
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 2px;
+}
+
+
+
+
+
+.button-container{
+    margin-left: 25px;
+
+    box-sizing: border-box;
+    padding: 10px,20px;
+    border-radius: 50px
+}
+.search-products input{
+    padding: 10px;
+margin-left: 90px;
+    width: 300px;
+  
+}
+.bag-logo bag{
+    display: flex;
+    align-items: center;
+}
+
+.search-logo  {
+      
+margin-left: 330px;
+margin-top: 10px;
+}
+.search-logo button{
+    margin-top: 20px;
+    margin-left: -300px;
+}
+.account-logo {
+    margin-left: 300px;
+}
+.account-logo svg{
+    font-size: 25px;
+}
+.Navlinks{
+    display: flex;
+    gap: 2rem;
+    margin-left: 223px;
+}
+.Navlinks li{
+    list-style: none;
+    color: white;
+    border: none;
+   
+   
+}
+.services-lists{
+    display: flex;
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+    
+}
+
+
+.Trending-Categories{
+    background-color: blue;
+    color: white;
+    margin-left: 200px
+}
+.call-logo{
+display: flex;
+margin-top: 20px;
+color: white;
+margin-left: 30px;
+    
+}
+.Footer-container{
+    background-color: black;
+}
+   

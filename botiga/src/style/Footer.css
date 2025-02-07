@@ -1,0 +1,54 @@
+.footer-container {
+    padding: 25px;
+    margin-left: 0px;
+    font-size: 15px;
+    background-color: black;
+    color: rgb(194, 189, 189);
+    display: grid;
+    grid-template-columns: 500px 300px;
+}
+.Updates-goods{
+    padding: 23px;
+    margin-left: 30px;
+}
+.Email-accounts{
+padding: 4px;
+margin-left: 0px;
+margin-bottom: 28px;
+color: black;
+}
+.Services-links {
+    display: flex;
+    margin-left: 4px;
+    gap: 12rem;
+    list-style: none;
+}
+.Welcome-customers{
+list-style: none;
+margin-left: 324px;
+margin-top: px;
+}
+.website-icons{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.Services-links ul{
+    list-style: none;
+    margin-left: -20px;
+    
+}
+.Services-links ul li{
+    margin-top: -5px;
+    font-size: 20px;
+    color: rgb(75, 63, 63);
+    margin-left: 1px;
+}
+.images-icons img{
+    width: 210px;
+    height: 35px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    margin-left: -5px;
+
+}
