@@ -1,7 +1,250 @@
-.Updates-inbotiga{
+
+
+.updates-inbotiga ul{
+    list-style: none;
     margin-left: 23px;
+    margin-top: 15px;
+    width: 5px;
+    font-size: 15px;
 }
 
+.updates-inbotiga{
+    margin-left: 200px;
+    gap: 10px;
+    margin-top: 10px;
+   
+    
+}
+.project-class{
+    margin-left: 23px;
+    margin-bottom: 4px;
+    
+}
+.home-programms{
+ display: grid;
+ grid-template-columns: 200px 200px;
+ margin-left: 30p;
+}
+.electonics-details{
+    margin-left: 300px;
+    display: flex;
+    margin-top: 24px;
+    width: 40px; 
+}
+.shop-container{
+    border-color: rgb(20, 13, 13);
+    
+
+}
+.focused-piliot{
+   
+ display: flex;
+
+
+    
+}
+.photos-items img{
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.new-progress{
+margin-left: 23px;
+}
+.new-progress li{
+display: flex;
+}
+.water-container{
+    display: flex;
+    list-style: none;
+}
+.arrival-products{
+    display: flex;
+}
+    
+.work-shop{
+    padding: 50px;
+    margin-left: 400px;
+}
+.dress-model{
+list-style: none;
+/* margin-bottom: 20px; */
+margin-left: 30px;
+display: block;
+/* justify-content: space-between; */
+padding: 30px;
+ 
+  
+}
+.dress-model img{
+    /* justify-content: space-between;   */
+    width: 380px; 
+}
+.monica-services{
+    /* justify-content: space-between;   */
+    margin-left: 50px;
+    
+    
+
+    
+  
+}
+.woman-clothes{
+    display: flex;
+    margin-left: 2px;
+    justify-content: space-between;
+
+    justify-content: space-between; 
+ }  
+
+.human-details{
+    display: flex;
+    justify-content: space-between; 
+}
+.santana-market li{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-between; 
+}  
+.dollar-cars li{
+display: flex;
+margin-left: 10px;
+width: 24px;
+justify-content: space-between; 
+} 
+.store-jessy{
+  padding-right: 40px;
+}
+.glass-progress{
+    display: flex;
+
+}
+.digital-systems{
+   
+}
+.greate-icon{
+    margin-bottom: 50px;
+}
+.vendors-list{
+    /* display: grid; */
+    /* grid-template-columns: 200px 200px; */
+    display: flex;
+    margin-left: 30px;
+padding-right: 20px;
+    
+    
+}
+.feedback-return{
+    /* display: grid;  */
+    /* grid-template-columns: 200px 200px; */
+    justify-content: space-between; 
+    display: flex; 
+    display: block;
+}
+.easy-return{
+    display: block;
+    
+}
+.customer-details{
+    display: block;
+    gap: 35px;
+ 
+  
+}
+.quantity-goods{
+    display: block;
+}
+.salers-care{
+    display: grid; 
+    grid-template-columns: 200px 200px;
+    justify-content: space-between; 
+    display: flex; 
+    display: block;
+    margin-bottom: 45px;
+}
+.details-explores{
+display: flex;
+list-style: none;
+columns: 3;
+display: grid;
+ 
+ 
+}
+.mic-phone{
+display: flex;
+
+}
+.clock-wise{
+    display: flex;
+    columns: 3;
+    display: block;
+    margin-bottom: 20px;
+    list-style: none;
+}
+.alexa-zone{
+    display: flex;
+    list-style: none;
+    margin-bottom: 20px;
+}
+.alexa-zone li{
+list-style: none;
+}
+.decoration-dress{
+    margin-left: 500px;
+}
+.follow-us{
+    margin-left: 400px;
+}
+.fashion-design{
+ width: 400px;
+ display: flex;
+ margin-bottom: 40px;
+ margin-left: 300px;
+ gap: 60px;
+    
+    
+    
+}
+
+
+
+
+
+  
+   
+  
+
+
+
+
+
+
+    
+   
+  
+
+
+
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
 
 
 
